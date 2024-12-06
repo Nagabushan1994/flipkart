@@ -1,5 +1,5 @@
 Hi
 
 Hello GM/GA/GE/GN
-adding linux commands
+
 every one learn devops tools
